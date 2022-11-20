@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "739351538432",
+    "project_id": "timepass-fffad",
+    "storage_bucket": "timepass-fffad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739351538432:android:cb139ad3544ec93367e1e5",
+        "android_client_info": {
+          "package_name": "com.example.timepass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739351538432-mtv01dlof1ski9qr4kd2ffjh7qs7o4a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0kErp3WnoKZgpT_jvYDn6zdtB10W22Fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739351538432-mtv01dlof1ski9qr4kd2ffjh7qs7o4a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
